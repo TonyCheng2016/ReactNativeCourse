@@ -1,1 +1,1 @@
-# ReactNativeCourse-AppHw1
+# ReactNativeCourse-App
