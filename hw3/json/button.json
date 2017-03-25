@@ -1,0 +1,18 @@
+[
+    {
+      "btn_name": "games",
+      "btn_image": "../img/btn_games_selected.png"
+    },
+    {
+      "btn_name": "channels",
+      "btn_image": "../img/btn_channels.png"
+    },
+    {
+      "btn_name": "following",
+      "btn_image": "../img/btn_following.png"
+    },
+    {
+      "btn_name": "me",
+      "btn_image": "../img/btn_me.png"
+    }
+]
