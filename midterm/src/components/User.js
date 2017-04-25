@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: '#eeeeee',
     padding: 10,
-    alignItem:'center'
+    //alignItem:'center'
   },
 });
 export default Me;
