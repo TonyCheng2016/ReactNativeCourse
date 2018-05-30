@@ -1,3 +1,6 @@
+隊員介紹與團隊分工方式
+鄭裕勳: 程式撰寫.企劃
+鐘偉誌: mockup.企劃書
 
 海報
 https://drive.google.com/drive/folders/0B0xiCt_F3CudQXRWMVJnUlhXbUk
